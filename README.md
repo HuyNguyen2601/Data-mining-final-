@@ -1,3 +1,3 @@
 # Data-mining-final-
 This is the respository for the final report of the course data mining. This respository was made by Huy Nguyen, Showkot Nadim and Fabian Ruse. In this report, we presented three models: KNN, Random Forest for fake_bills.csv dataset, and Naive Bayes for spam_ham_dataset.csv. 
-The youtube video is embeded in the codespace, but apparently because of limited functionality of python extension on github, the video is not shown in the codespace. We would suggest readers to download this jupyter notebook file to your local VS code and run it. Alternatively, the youtube video link is attaced in the code itself.
+The youtube video is embedded in the codespace, but apparently because of limited functionality of python extension on github, the video is not shown in the codespace. We would suggest readers to download this jupyter notebook file to your local VS code and run it. Alternatively, the youtube video link is attaced in the code itself.
